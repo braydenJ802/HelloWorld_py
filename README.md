@@ -6,7 +6,7 @@ The simple message "Hello World" is printed. What I love most about the "Hello W
 
 This is created to show the average person that even coding starts out very simple; they can learn to code if they would like.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8yxZKmAYg-o)
 
 # Development Environment
 
